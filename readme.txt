@@ -1,0 +1,1 @@
+Value Added Chain using its unique consensus mechanism VACA as the core technology, is trying to create an ecological loop system by achieve on the management and circulation of value-added assets. The access of multi-industry and the exchange of value-added assets will achieve a win-win result on both business and consumers. 
