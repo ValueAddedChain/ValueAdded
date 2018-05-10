@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_STORESQDB_H_INCLUDED
-#define VAC_PEERFINDER_STORESQDB_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_STORESQDB_H_INCLUDED
+#define VALUEADD_PEERFINDER_STORESQDB_H_INCLUDED
 
 #include <valueAdd/basics/contract.h>
 #include <valueAdd/core/SociDB.h>

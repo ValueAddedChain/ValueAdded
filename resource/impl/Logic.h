@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_LOGIC_H_INCLUDED
-#define VAC_RESOURCE_LOGIC_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_LOGIC_H_INCLUDED
+#define VALUEADD_RESOURCE_LOGIC_H_INCLUDED
 
 #include <valueAdd/resource/Fees.h>
 #include <valueAdd/resource/Gossip.h>

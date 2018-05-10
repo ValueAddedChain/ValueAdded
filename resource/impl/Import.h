@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_IMPORT_H_INCLUDED
-#define VAC_RESOURCE_IMPORT_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_IMPORT_H_INCLUDED
+#define VALUEADD_RESOURCE_IMPORT_H_INCLUDED
 
 #include <valueAdd/resource/Consumer.h>
 

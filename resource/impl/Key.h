@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_KEY_H_INCLUDED
-#define VAC_RESOURCE_KEY_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_KEY_H_INCLUDED
+#define VALUEADD_RESOURCE_KEY_H_INCLUDED
 
 #include <valueAdd/resource/impl/Kind.h>
 #include <valueAdd/beast/net/IPEndpoint.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_ENTRY_H_INCLUDED
-#define VAC_RESOURCE_ENTRY_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_ENTRY_H_INCLUDED
+#define VALUEADD_RESOURCE_ENTRY_H_INCLUDED
 
 #include <valueAdd/basics/DecayingSample.h>
 #include <valueAdd/resource/impl/Key.h>

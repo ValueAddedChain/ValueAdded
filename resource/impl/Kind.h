@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_KIND_H_INCLUDED
-#define VAC_RESOURCE_KIND_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_KIND_H_INCLUDED
+#define VALUEADD_RESOURCE_KIND_H_INCLUDED
 
 namespace valueAdd {
 namespace Resource {
