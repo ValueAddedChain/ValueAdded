@@ -152,7 +152,7 @@ void printHelp (const po::options_description& desc)
            "     ping\n"
            "     random\n"
            "     valueAdd ...\n"
-           "     vac_path_find <json> [<ledger>]\n"
+           "     valueAdd_path_find <json> [<ledger>]\n"
            "     version\n"
            "     server_info\n"
            "     sign <private_key> <tx_json> [offline]\n"
@@ -526,7 +526,7 @@ int main (int argc, char** argv)
 
     // At exit, reports all memory blocks which have not been freed.
     //
-#if VAC_DUMP_LEAKS_ON_EXIT
+#if VALUEADD_DUMP_LEAKS_ON_EXIT
     beast::Debug::setHeapReportLeaks (true);
 #else
     beast::Debug::setHeapReportLeaks (false);

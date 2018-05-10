@@ -362,7 +362,7 @@ public:
     std::size_t
     numberOfThreads(Config const& config)
     {
-    #if VAC_SINGLE_IO_SERVICE_THREAD
+    #if VALUEADD_SINGLE_IO_SERVICE_THREAD
         return 1;
     #else
         return (config.NODE_SIZE >= 2) ? 2 : 1;
