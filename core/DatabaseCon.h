@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_APP_DATA_DATABASECON_H_INCLUDED
-#define VAC_APP_DATA_DATABASECON_H_INCLUDED
+#ifndef VALUEADD_APP_DATA_DATABASECON_H_INCLUDED
+#define VALUEADD_APP_DATA_DATABASECON_H_INCLUDED
 
 #include <valueAdd/core/Config.h>
 #include <valueAdd/core/SociDB.h>

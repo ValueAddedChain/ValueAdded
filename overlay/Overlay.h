@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_OVERLAY_H_INCLUDED
-#define VAC_OVERLAY_OVERLAY_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_OVERLAY_H_INCLUDED
+#define VALUEADD_OVERLAY_OVERLAY_H_INCLUDED
 
 #include <valueAdd/json/json_value.h>
 #include <valueAdd/overlay/Peer.h>

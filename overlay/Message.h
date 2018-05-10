@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_MESSAGE_H_INCLUDED
-#define VAC_OVERLAY_MESSAGE_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_MESSAGE_H_INCLUDED
+#define VALUEADD_OVERLAY_MESSAGE_H_INCLUDED
 
 #include "valueAdd.pb.h"
 #include <boost/asio/buffer.hpp>

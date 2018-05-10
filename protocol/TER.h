@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_TER_H_INCLUDED
-#define VAC_PROTOCOL_TER_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_TER_H_INCLUDED
+#define VALUEADD_PROTOCOL_TER_H_INCLUDED
 
 #include <boost/optional.hpp>
 #include <string>
@@ -86,7 +86,7 @@ enum TER
     temINVALID,
     temINVALID_FLAG,
     temREDUNDANT,
-    temVAC_EMPTY,
+    temVALUEADD_EMPTY,
     temDISABLED,
     temBAD_SIGNER,
     temBAD_QUORUM,
@@ -154,7 +154,7 @@ enum TER
     terPRE_SEQ,          // Can't pay fee, no point in forwarding, so don't
                          // burden network.
     terLAST,             // Process after all other transactions
-    terNO_VAC,        // Rippling not allowed
+    terNO_VALUEADD,        // Rippling not allowed
     terQUEUED,           // Transaction is being held in TxQ until fee drops
 
     // 0: S Success (success)

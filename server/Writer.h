@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_WRITER_H_INCLUDED
-#define VAC_SERVER_WRITER_H_INCLUDED
+#ifndef VALUEADD_SERVER_WRITER_H_INCLUDED
+#define VALUEADD_SERVER_WRITER_H_INCLUDED
 
 #include <boost/asio/buffer.hpp>
 #include <functional>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_CLOSURE_COUNTER_H_INCLUDED
-#define VAC_CORE_CLOSURE_COUNTER_H_INCLUDED
+#ifndef VALUEADD_CORE_CLOSURE_COUNTER_H_INCLUDED
+#define VALUEADD_CORE_CLOSURE_COUNTER_H_INCLUDED
 
 #include <valueAdd/basics/Log.h>
 #include <boost/optional.hpp>
@@ -204,4 +204,4 @@ public:
 
 } // valueAdd
 
-#endif // VAC_CORE_CLOSURE_COUNTER_H_INCLUDED
+#endif // VALUEADD_CORE_CLOSURE_COUNTER_H_INCLUDED

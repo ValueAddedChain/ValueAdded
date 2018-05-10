@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_CLUSTER_H_INCLUDED
-#define VAC_OVERLAY_CLUSTER_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_CLUSTER_H_INCLUDED
+#define VALUEADD_OVERLAY_CLUSTER_H_INCLUDED
 
 #include <BeastConfig.h>
 #include <valueAdd/app/main/Application.h>

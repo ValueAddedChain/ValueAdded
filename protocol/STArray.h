@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_STARRAY_H_INCLUDED
-#define VAC_PROTOCOL_STARRAY_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_STARRAY_H_INCLUDED
+#define VALUEADD_PROTOCOL_STARRAY_H_INCLUDED
 
 #include <valueAdd/basics/CountedObject.h>
 #include <valueAdd/protocol/STObject.h>

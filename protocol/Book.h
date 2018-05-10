@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_BOOK_H_INCLUDED
-#define VAC_PROTOCOL_BOOK_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_BOOK_H_INCLUDED
+#define VALUEADD_PROTOCOL_BOOK_H_INCLUDED
 
 #include <valueAdd/protocol/Issue.h>
 #include <boost/utility/base_from_member.hpp>

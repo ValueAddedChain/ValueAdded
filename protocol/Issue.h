@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_ISSUE_H_INCLUDED
-#define VAC_PROTOCOL_ISSUE_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_ISSUE_H_INCLUDED
+#define VALUEADD_PROTOCOL_ISSUE_H_INCLUDED
 
 #include <cassert>
 #include <functional>

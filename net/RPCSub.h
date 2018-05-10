@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NET_RPCSUB_H_INCLUDED
-#define VAC_NET_RPCSUB_H_INCLUDED
+#ifndef VALUEADD_NET_RPCSUB_H_INCLUDED
+#define VALUEADD_NET_RPCSUB_H_INCLUDED
 
 #include <valueAdd/core/JobQueue.h>
 #include <valueAdd/net/InfoSub.h>

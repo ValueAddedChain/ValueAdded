@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_CONFIG_H_INCLUDED
-#define VAC_CORE_CONFIG_H_INCLUDED
+#ifndef VALUEADD_CORE_CONFIG_H_INCLUDED
+#define VALUEADD_CORE_CONFIG_H_INCLUDED
 
 #include <valueAdd/basics/BasicConfig.h>
 #include <valueAdd/basics/base_uint.h>

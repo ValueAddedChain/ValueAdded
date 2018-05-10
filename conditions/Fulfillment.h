@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CONDITIONS_FULFILLMENT_H
-#define VAC_CONDITIONS_FULFILLMENT_H
+#ifndef VALUEADD_CONDITIONS_FULFILLMENT_H
+#define VALUEADD_CONDITIONS_FULFILLMENT_H
 
 #include <valueAdd/basics/Buffer.h>
 #include <valueAdd/basics/Slice.h>

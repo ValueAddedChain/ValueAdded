@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_MANAGER_H_INCLUDED
-#define VAC_PEERFINDER_MANAGER_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_MANAGER_H_INCLUDED
+#define VALUEADD_PEERFINDER_MANAGER_H_INCLUDED
 
 #include <valueAdd/peerfinder/Slot.h>
 #include <valueAdd/beast/clock/abstract_clock.h>

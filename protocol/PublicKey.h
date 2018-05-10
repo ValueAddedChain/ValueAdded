@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_PUBLICKEY_H_INCLUDED
-#define VAC_PROTOCOL_PUBLICKEY_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_PUBLICKEY_H_INCLUDED
+#define VALUEADD_PROTOCOL_PUBLICKEY_H_INCLUDED
 
 #include <valueAdd/basics/Slice.h>
 #include <valueAdd/crypto/KeyType.h> // move to protocol/

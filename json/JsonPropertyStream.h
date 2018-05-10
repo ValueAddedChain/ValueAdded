@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_JSON_JSONPROPERTYSTREAM_H_INCLUDED
-#define VAC_JSON_JSONPROPERTYSTREAM_H_INCLUDED
+#ifndef VALUEADD_JSON_JSONPROPERTYSTREAM_H_INCLUDED
+#define VALUEADD_JSON_JSONPROPERTYSTREAM_H_INCLUDED
 
 #include <valueAdd/json/json_value.h>
 #include <valueAdd/beast/utility/PropertyStream.h>

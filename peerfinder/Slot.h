@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_SLOT_H_INCLUDED
-#define VAC_PEERFINDER_SLOT_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_SLOT_H_INCLUDED
+#define VALUEADD_PEERFINDER_SLOT_H_INCLUDED
 
 #include <valueAdd/protocol/PublicKey.h>
 #include <valueAdd/beast/net/IPEndpoint.h>

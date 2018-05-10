@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_CONSUMER_H_INCLUDED
-#define VAC_RESOURCE_CONSUMER_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_CONSUMER_H_INCLUDED
+#define VALUEADD_RESOURCE_CONSUMER_H_INCLUDED
 
 #include <valueAdd/resource/Charge.h>
 #include <valueAdd/resource/Disposition.h>

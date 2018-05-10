@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_DIGEST_H_INCLUDED
-#define VAC_PROTOCOL_DIGEST_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_DIGEST_H_INCLUDED
+#define VALUEADD_PROTOCOL_DIGEST_H_INCLUDED
 
 #include <valueAdd/basics/base_uint.h>
 #include <valueAdd/beast/crypto/ripemd.h>
@@ -122,7 +122,7 @@ private:
 
 // Aliases to choose the correct digest implementation
 
-#if VAC_USE_OPENSSL
+#if VALUEADD_USE_OPENSSL
 using ripemd160_hasher = openssl_ripemd160_hasher;
 using sha256_hasher = openssl_sha256_hasher;
 using sha512_hasher = openssl_sha512_hasher;

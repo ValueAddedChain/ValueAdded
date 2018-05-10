@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_FEES_H_INCLUDED
-#define VAC_RESOURCE_FEES_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_FEES_H_INCLUDED
+#define VALUEADD_RESOURCE_FEES_H_INCLUDED
 
 #include <valueAdd/resource/Charge.h>
 

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_STOPPABLE_H_INCLUDED
-#define VAC_CORE_STOPPABLE_H_INCLUDED
+#ifndef VALUEADD_CORE_STOPPABLE_H_INCLUDED
+#define VALUEADD_CORE_STOPPABLE_H_INCLUDED
 
 #include <valueAdd/beast/core/LockFreeStack.h>
 #include <valueAdd/beast/utility/Journal.h>

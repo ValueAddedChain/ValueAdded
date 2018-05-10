@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_INDEXES_H_INCLUDED
-#define VAC_PROTOCOL_INDEXES_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_INDEXES_H_INCLUDED
+#define VALUEADD_PROTOCOL_INDEXES_H_INCLUDED
 
 #include <valueAdd/protocol/Keylet.h>
 #include <valueAdd/protocol/LedgerFormats.h>
@@ -82,10 +82,10 @@ uint256
 getTicketIndex (AccountID const& account, std::uint32_t uSequence);
 
 uint256
-getVacStateIndex (AccountID const& a, AccountID const& b, Currency const& currency);
+getVALUEADDStateIndex (AccountID const& a, AccountID const& b, Currency const& currency);
 
 uint256
-getVacStateIndex (AccountID const& a, Issue const& issue);
+getVALUEADDStateIndex (AccountID const& a, Issue const& issue);
 
 uint256
 getSignerListIndex (AccountID const& account);
@@ -155,7 +155,7 @@ struct line_t
 
     Keylet operator()(uint256 const& key) const
     {
-        return { ltVAC_STATE, key };
+        return { ltVALUEADD_STATE, key };
     }
 };
 static line_t const line {};

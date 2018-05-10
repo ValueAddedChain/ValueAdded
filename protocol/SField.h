@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_SFIELD_H_INCLUDED
-#define VAC_PROTOCOL_SFIELD_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_SFIELD_H_INCLUDED
+#define VALUEADD_PROTOCOL_SFIELD_H_INCLUDED
 
 #include <valueAdd/json/json_value.h>
 #include <cstdint>
@@ -433,7 +433,7 @@ extern SF_Amount const sfDeliverMin;
 
 // currency amount (uncommon)
 extern SF_Amount const sfMinimumOffer;
-extern SF_Amount const sfVacEscrow;
+extern SF_Amount const sfVALUEADDEscrow;
 extern SF_Amount const sfDeliveredAmount;
 
 // variable length (common)

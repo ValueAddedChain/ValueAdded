@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_JSON_OBJECT_H_INCLUDED
-#define VAC_JSON_OBJECT_H_INCLUDED
+#ifndef VALUEADD_JSON_OBJECT_H_INCLUDED
+#define VALUEADD_JSON_OBJECT_H_INCLUDED
 
 #include <valueAdd/json/Writer.h>
 #include <memory>

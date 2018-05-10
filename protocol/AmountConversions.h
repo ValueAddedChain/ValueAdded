@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_AMOUNTCONVERSION_H_INCLUDED
-#define VAC_PROTOCOL_AMOUNTCONVERSION_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_AMOUNTCONVERSION_H_INCLUDED
+#define VALUEADD_PROTOCOL_AMOUNTCONVERSION_H_INCLUDED
 
 #include <valueAdd/protocol/IOUAmount.h>
 #include <valueAdd/protocol/XRPAmount.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_LEDGERFORMATS_H_INCLUDED
-#define VAC_PROTOCOL_LEDGERFORMATS_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_LEDGERFORMATS_H_INCLUDED
+#define VALUEADD_PROTOCOL_LEDGERFORMATS_H_INCLUDED
 
 #include <valueAdd/protocol/KnownFormats.h>
 
@@ -64,7 +64,7 @@ enum LedgerEntryType
     */
     ltDIR_NODE          = 'd',
 
-    ltVAC_STATE      = 'r',
+    ltVALUEADD_STATE      = 'r',
 
     ltTICKET            = 'T',
 
@@ -99,7 +99,7 @@ enum LedgerNameSpace
     spaceAccount        = 'a',
     spaceDirNode        = 'd',
     spaceGenerator      = 'g',
-    spaceVac         = 'r',
+    spaceVALUEADD         = 'r',
     spaceOffer          = 'o',  // Entry for an offer.
     spaceOwnerDir       = 'O',  // Directory of things owned by an account.
     spaceBookDir        = 'B',  // Directory of order books.
@@ -130,19 +130,19 @@ enum LedgerSpecificFlags
     lsfDisableMaster    = 0x00100000,   // True, force regular key
     lsfNoFreeze         = 0x00200000,   // True, cannot freeze valueAdd states
     lsfGlobalFreeze     = 0x00400000,   // True, all assets frozen
-    lsfDefaultVac    = 0x00800000,   // True, trust lines allow rippling by default
+    lsfDefaultVALUEADD    = 0x00800000,   // True, trust lines allow rippling by default
 
     // ltOFFER
     lsfPassive          = 0x00010000,
     lsfSell             = 0x00020000,   // True, offer was placed as a sell.
 
-    // ltVAC_STATE
+    // ltVALUEADD_STATE
     lsfLowReserve       = 0x00010000,   // True, if entry counts toward reserve.
     lsfHighReserve      = 0x00020000,
     lsfLowAuth          = 0x00040000,
     lsfHighAuth         = 0x00080000,
-    lsfLowNoVac      = 0x00100000,
-    lsfHighNoVac     = 0x00200000,
+    lsfLowNoVALUEADD      = 0x00100000,
+    lsfHighNoVALUEADD     = 0x00200000,
     lsfLowFreeze        = 0x00400000,   // True, low side has set freeze flag
     lsfHighFreeze       = 0x00800000,   // True, high side has set freeze flag
 };

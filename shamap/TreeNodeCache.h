@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SHAMAP_TREENODECACHE_H_INCLUDED
-#define VAC_SHAMAP_TREENODECACHE_H_INCLUDED
+#ifndef VALUEADD_SHAMAP_TREENODECACHE_H_INCLUDED
+#define VALUEADD_SHAMAP_TREENODECACHE_H_INCLUDED
 
 #include <valueAdd/shamap/TreeNodeCache.h>
 #include <valueAdd/shamap/SHAMapTreeNode.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_RESOURCE_GOSSIP_H_INCLUDED
-#define VAC_RESOURCE_GOSSIP_H_INCLUDED
+#ifndef VALUEADD_RESOURCE_GOSSIP_H_INCLUDED
+#define VALUEADD_RESOURCE_GOSSIP_H_INCLUDED
 
 #include <valueAdd/beast/net/IPEndpoint.h>
 

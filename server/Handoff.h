@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_HANDOFF_H_INCLUDED
-#define VAC_SERVER_HANDOFF_H_INCLUDED
+#ifndef VALUEADD_SERVER_HANDOFF_H_INCLUDED
+#define VALUEADD_SERVER_HANDOFF_H_INCLUDED
 
 #include <valueAdd/server/Writer.h>
 #include <beast/http/message.hpp>

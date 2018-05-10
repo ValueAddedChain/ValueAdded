@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NET_REGISTER_SSL_CERTS_H_INCLUDED
-#define VAC_NET_REGISTER_SSL_CERTS_H_INCLUDED
+#ifndef VALUEADD_NET_REGISTER_SSL_CERTS_H_INCLUDED
+#define VALUEADD_NET_REGISTER_SSL_CERTS_H_INCLUDED
 
 #include <boost/asio/ssl/context.hpp>
 #include <valueAdd/basics/Log.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CONDITIONS_CONDITION_H
-#define VAC_CONDITIONS_CONDITION_H
+#ifndef VALUEADD_CONDITIONS_CONDITION_H
+#define VALUEADD_CONDITIONS_CONDITION_H
 
 #include <valueAdd/basics/Buffer.h>
 #include <valueAdd/basics/Slice.h>

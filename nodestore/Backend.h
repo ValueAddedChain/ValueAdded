@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NODESTORE_BACKEND_H_INCLUDED
-#define VAC_NODESTORE_BACKEND_H_INCLUDED
+#ifndef VALUEADD_NODESTORE_BACKEND_H_INCLUDED
+#define VALUEADD_NODESTORE_BACKEND_H_INCLUDED
 
 #include <valueAdd/nodestore/Types.h>
 

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_TOKENS_H_INCLUDED
-#define VAC_PROTOCOL_TOKENS_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_TOKENS_H_INCLUDED
+#define VALUEADD_PROTOCOL_TOKENS_H_INCLUDED
 
 #include <boost/optional.hpp>
 #include <cstdint>

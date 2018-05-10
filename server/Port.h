@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_PORT_H_INCLUDED
-#define VAC_SERVER_PORT_H_INCLUDED
+#ifndef VALUEADD_SERVER_PORT_H_INCLUDED
+#define VALUEADD_SERVER_PORT_H_INCLUDED
 
 #include <valueAdd/basics/BasicConfig.h>
 #include <valueAdd/beast/net/IPEndpoint.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_PEER_H_INCLUDED
-#define VAC_OVERLAY_PEER_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_PEER_H_INCLUDED
+#define VALUEADD_OVERLAY_PEER_H_INCLUDED
 
 #include <valueAdd/overlay/Message.h>
 #include <valueAdd/basics/base_uint.h>

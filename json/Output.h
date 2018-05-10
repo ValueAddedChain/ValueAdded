@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_JSON_OUTPUT_H_INCLUDED
-#define VAC_JSON_OUTPUT_H_INCLUDED
+#ifndef VALUEADD_JSON_OUTPUT_H_INCLUDED
+#define VALUEADD_JSON_OUTPUT_H_INCLUDED
 
 #include <beast/core/string.hpp>
 #include <functional>

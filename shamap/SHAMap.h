@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SHAMAP_SHAMAP_H_INCLUDED
-#define VAC_SHAMAP_SHAMAP_H_INCLUDED
+#ifndef VALUEADD_SHAMAP_SHAMAP_H_INCLUDED
+#define VALUEADD_SHAMAP_SHAMAP_H_INCLUDED
 
 #include <valueAdd/shamap/Family.h>
 #include <valueAdd/shamap/FullBelowCache.h>

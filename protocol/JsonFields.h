@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_JSONFIELDS_H_INCLUDED
-#define VAC_PROTOCOL_JSONFIELDS_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_JSONFIELDS_H_INCLUDED
+#define VALUEADD_PROTOCOL_JSONFIELDS_H_INCLUDED
 
 #include <valueAdd/json/json_value.h>
 
@@ -78,7 +78,7 @@ JSS ( acquiring );                  // out: LedgerRequest
 JSS ( address );                    // out: PeerImp
 JSS ( affected );                   // out: AcceptedLedgerTx
 JSS ( age );                        // out: NetworkOPs, Peers
-JSS ( alternatives );               // out: PathRequest, VacPathFind
+JSS ( alternatives );               // out: PathRequest, VALUEADDPathFind
 JSS ( amendment_blocked );          // out: NetworkOPs
 JSS ( amendments );                 // in: AccountObjects, out: NetworkOPs
 JSS ( amount );                     // out: AccountChannels
@@ -140,10 +140,10 @@ JSS ( debug_signing );              // in: TransactionSign
 JSS ( delivered_amount );           // out: addPaymentDeliveredAmount
 JSS ( deprecated );                 // out: WalletSeed
 JSS ( descending );                 // in: AccountTx*
-JSS ( destination_account );        // in: PathRequest, VacPathFind, account_lines
+JSS ( destination_account );        // in: PathRequest, VALUEADDPathFind, account_lines
                                     // out: AccountChannels
-JSS ( destination_amount );         // in: PathRequest, VacPathFind
-JSS ( destination_currencies );     // in: PathRequest, VacPathFind
+JSS ( destination_amount );         // in: PathRequest, VALUEADDPathFind
+JSS ( destination_currencies );     // in: PathRequest, VALUEADDPathFind
 JSS ( destination_tag );            // in: PathRequest
                                     // out: AccountChannels
 JSS ( dir_entry );                  // out: DirectoryEntryIterator
@@ -211,7 +211,7 @@ JSS ( info );                       // out: ServerInfo, ConsensusInfo, FetchInfo
 JSS ( internal_command );           // in: Internal
 JSS ( io_latency_ms );              // out: NetworkOPs
 JSS ( ip );                         // in: Connect, out: OverlayImpl
-JSS ( issuer );                     // in: VacPathFind, Subscribe,
+JSS ( issuer );                     // in: VALUEADDPathFind, Subscribe,
                                     //     Unsubscribe, BookOffers
                                     // out: paths/Node, STPathSet, STAmount
 JSS ( jsonrpc );                    // json version
@@ -229,7 +229,7 @@ JSS ( ledger_current_index );       // out: NetworkOPs, RPCHelpers,
                                     //      LedgerCurrent, LedgerAccept
 JSS ( ledger_data );                // out: LedgerHeader
 JSS ( ledger_hash );                // in: RPCHelpers, LedgerRequest,
-                                    //     VacPathFind, TransactionEntry,
+                                    //     VALUEADDPathFind, TransactionEntry,
                                     //     handlers/Ledger
                                     // out: NetworkOPs, RPCHelpers,
                                     //      LedgerClosed, LedgerData
@@ -291,8 +291,8 @@ JSS ( name );                       // out: AmendmentTableImpl, PeerImp
 JSS ( needed_state_hashes );        // out: InboundLedger
 JSS ( needed_transaction_hashes );  // out: InboundLedger
 JSS ( network_ledger );             // out: NetworkOPs
-JSS ( no_vac );                  // out: AccountLines
-JSS ( no_vac_peer );             // out: AccountLines
+JSS ( no_VALUEADD );                  // out: AccountLines
+JSS ( no_VALUEADD_peer );             // out: AccountLines
 JSS ( node );                       // out: LedgerEntry
 JSS ( node_binary );                // out: LedgerEntry
 JSS ( node_hit_rate );              // out: GetCounts
@@ -318,9 +318,9 @@ JSS ( parent_hash );                // out: LedgerToJson
 JSS ( partition );                  // in: LogLevel
 JSS ( passphrase );                 // in: WalletPropose
 JSS ( password );                   // in: Subscribe
-JSS ( paths );                      // in: VacPathFind
-JSS ( paths_canonical );            // out: VacPathFind
-JSS ( paths_computed );             // out: PathRequest, VacPathFind
+JSS ( paths );                      // in: VALUEADDPathFind
+JSS ( paths_canonical );            // out: VALUEADDPathFind
+JSS ( paths_computed );             // out: PathRequest, VALUEADDPathFind
 JSS ( payment_channel );            // in: LedgerEntry
 JSS ( peer );                       // in: AccountLines
 JSS ( peer_authorized );            // out: AccountLines
@@ -358,20 +358,20 @@ JSS ( reserve_inc );                // out: NetworkOPs
 JSS ( reserve_inc_xrp );            // out: NetworkOPs
 JSS ( response );                   // websocket
 JSS ( result );                     // RPC
-JSS ( vac_lines );               // out: NetworkOPs
-JSS ( vac_state );               // in: LedgerEntr
-JSS ( vacrpc );                  // valueAdd RPC version
+JSS ( VALUEADD_lines );               // out: NetworkOPs
+JSS ( VALUEADD_state );               // in: LedgerEntr
+JSS ( VALUEADDrpc );                  // valueAdd RPC version
 JSS ( role );                       // out: Ping.cpp
 JSS ( rt_accounts );                // in: Subscribe, Unsubscribe
 JSS ( sanity );                     // out: PeerImp
-JSS ( search_depth );               // in: VacPathFind
+JSS ( search_depth );               // in: VALUEADDPathFind
 JSS ( secret );                     // in: TransactionSign, WalletSeed,
                                     //     ValidationCreate, ValidationSeed,
                                     //     channel_authorize
 JSS ( seed );                       // in: WalletAccounts, out: WalletSeed
 JSS ( seed_hex );                   // in: WalletPropose, TransactionSign
 JSS ( send_currencies );            // out: AccountCurrencies
-JSS ( send_max );                   // in: PathRequest, VacPathFind
+JSS ( send_max );                   // in: PathRequest, VALUEADDPathFind
 JSS ( seq );                        // in: LedgerEntry;
                                     // out: NetworkOPs, RPCSub, AccountOffers,
                                     //      ValidatorList
@@ -388,9 +388,9 @@ JSS ( signing_time );               // out: NetworkOPs
 JSS ( signer_list );                // in: AccountObjects
 JSS ( signer_lists );               // in/out: AccountInfo
 JSS ( snapshot );                   // in: Subscribe
-JSS ( source_account );             // in: PathRequest, VacPathFind
-JSS ( source_amount );              // in: PathRequest, VacPathFind
-JSS ( source_currencies );          // in: PathRequest, VacPathFind
+JSS ( source_account );             // in: PathRequest, VALUEADDPathFind
+JSS ( source_amount );              // in: PathRequest, VALUEADDPathFind
+JSS ( source_currencies );          // in: PathRequest, VALUEADDPathFind
 JSS ( source_tag );                 // out: AccountChannels
 JSS ( stand_alone );                // out: NetworkOPs
 JSS ( start );                      // in: TxHistory

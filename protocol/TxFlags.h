@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_TXFLAGS_H_INCLUDED
-#define VAC_PROTOCOL_TXFLAGS_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_TXFLAGS_H_INCLUDED
+#define VALUEADD_PROTOCOL_TXFLAGS_H_INCLUDED
 
 #include <cstdint>
 
@@ -67,7 +67,7 @@ const std::uint32_t asfDisableMaster       = 4;
 const std::uint32_t asfAccountTxnID        = 5;
 const std::uint32_t asfNoFreeze            = 6;
 const std::uint32_t asfGlobalFreeze        = 7;
-const std::uint32_t asfDefaultVac       = 8;
+const std::uint32_t asfDefaultVALUEADD       = 8;
 
 // OfferCreate flags:
 const std::uint32_t tfPassive              = 0x00010000;
@@ -77,18 +77,18 @@ const std::uint32_t tfSell                 = 0x00080000;
 const std::uint32_t tfOfferCreateMask      = ~ (tfUniversal | tfPassive | tfImmediateOrCancel | tfFillOrKill | tfSell);
 
 // Payment flags:
-const std::uint32_t tfNoVacDirect       = 0x00010000;
+const std::uint32_t tfNoVALUEADDDirect       = 0x00010000;
 const std::uint32_t tfPartialPayment       = 0x00020000;
 const std::uint32_t tfLimitQuality         = 0x00040000;
-const std::uint32_t tfPaymentMask          = ~ (tfUniversal | tfPartialPayment | tfLimitQuality | tfNoVacDirect);
+const std::uint32_t tfPaymentMask          = ~ (tfUniversal | tfPartialPayment | tfLimitQuality | tfNoVALUEADDDirect);
 
 // TrustSet flags:
 const std::uint32_t tfSetfAuth             = 0x00010000;
-const std::uint32_t tfSetNoVac          = 0x00020000;
-const std::uint32_t tfClearNoVac        = 0x00040000;
+const std::uint32_t tfSetNoVALUEADD          = 0x00020000;
+const std::uint32_t tfClearNoVALUEADD        = 0x00040000;
 const std::uint32_t tfSetFreeze            = 0x00100000;
 const std::uint32_t tfClearFreeze          = 0x00200000;
-const std::uint32_t tfTrustSetMask         = ~ (tfUniversal | tfSetfAuth | tfSetNoVac | tfClearNoVac
+const std::uint32_t tfTrustSetMask         = ~ (tfUniversal | tfSetfAuth | tfSetNoVALUEADD | tfClearNoVALUEADD
                                              | tfSetFreeze | tfClearFreeze);
 
 // EnableAmendment flags:

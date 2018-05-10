@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_JOBTYPES_H_INCLUDED
-#define VAC_CORE_JOBTYPES_H_INCLUDED
+#ifndef VALUEADD_CORE_JOBTYPES_H_INCLUDED
+#define VALUEADD_CORE_JOBTYPES_H_INCLUDED
 
 #include <valueAdd/core/Job.h>
 #include <valueAdd/core/JobTypeInfo.h>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_SIGN_H_INCLUDED
-#define VAC_PROTOCOL_SIGN_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_SIGN_H_INCLUDED
+#define VALUEADD_PROTOCOL_SIGN_H_INCLUDED
 
 #include <valueAdd/protocol/HashPrefix.h>
 #include <valueAdd/protocol/PublicKey.h>

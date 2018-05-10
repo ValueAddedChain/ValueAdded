@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_STTX_H_INCLUDED
-#define VAC_PROTOCOL_STTX_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_STTX_H_INCLUDED
+#define VALUEADD_PROTOCOL_STTX_H_INCLUDED
 
 #include <valueAdd/protocol/PublicKey.h>
 #include <valueAdd/protocol/SecretKey.h>

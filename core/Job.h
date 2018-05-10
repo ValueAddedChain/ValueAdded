@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_JOB_H_INCLUDED
-#define VAC_CORE_JOB_H_INCLUDED
+#ifndef VALUEADD_CORE_JOB_H_INCLUDED
+#define VALUEADD_CORE_JOB_H_INCLUDED
 
 #include <valueAdd/core/LoadMonitor.h>
 #include <functional>

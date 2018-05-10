@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_STAMOUNT_H_INCLUDED
-#define VAC_PROTOCOL_STAMOUNT_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_STAMOUNT_H_INCLUDED
+#define VALUEADD_PROTOCOL_STAMOUNT_H_INCLUDED
 
 #include <valueAdd/basics/chrono.h>
 #include <valueAdd/basics/LocalValue.h>

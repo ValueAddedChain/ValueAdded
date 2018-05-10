@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_WEBSOCKET_AUTOSOCKET_AUTOSOCKET_H_INCLUDED
-#define VAC_WEBSOCKET_AUTOSOCKET_AUTOSOCKET_H_INCLUDED
+#ifndef VALUEADD_WEBSOCKET_AUTOSOCKET_AUTOSOCKET_H_INCLUDED
+#define VALUEADD_WEBSOCKET_AUTOSOCKET_AUTOSOCKET_H_INCLUDED
 
 #include <valueAdd/basics/Log.h>
 #include <valueAdd/beast/net/IPAddressConversion.h>

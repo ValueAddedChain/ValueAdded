@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_APP_PEERS_PEERSET_H_INCLUDED
-#define VAC_APP_PEERS_PEERSET_H_INCLUDED
+#ifndef VALUEADD_APP_PEERS_PEERSET_H_INCLUDED
+#define VALUEADD_APP_PEERS_PEERSET_H_INCLUDED
 
 #include <valueAdd/app/main/Application.h>
 #include <valueAdd/beast/clock/abstract_clock.h>

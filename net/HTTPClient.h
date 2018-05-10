@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NET_HTTPCLIENT_H_INCLUDED
-#define VAC_NET_HTTPCLIENT_H_INCLUDED
+#ifndef VALUEADD_NET_HTTPCLIENT_H_INCLUDED
+#define VALUEADD_NET_HTTPCLIENT_H_INCLUDED
 
 #include <valueAdd/core/Config.h>
 #include <boost/asio/io_service.hpp>

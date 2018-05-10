@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_MAKE_OVERLAY_H_INCLUDED
-#define VAC_OVERLAY_MAKE_OVERLAY_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_MAKE_OVERLAY_H_INCLUDED
+#define VALUEADD_OVERLAY_MAKE_OVERLAY_H_INCLUDED
 
 #include <valueAdd/rpc/ServerHandler.h>
 #include <valueAdd/overlay/Overlay.h>

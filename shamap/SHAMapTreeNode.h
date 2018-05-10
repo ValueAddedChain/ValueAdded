@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SHAMAP_SHAMAPTREENODE_H_INCLUDED
-#define VAC_SHAMAP_SHAMAPTREENODE_H_INCLUDED
+#ifndef VALUEADD_SHAMAP_SHAMAPTREENODE_H_INCLUDED
+#define VALUEADD_SHAMAP_SHAMAPTREENODE_H_INCLUDED
 
 #include <valueAdd/shamap/SHAMapItem.h>
 #include <valueAdd/shamap/SHAMapNodeID.h>

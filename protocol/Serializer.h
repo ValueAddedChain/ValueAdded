@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_SERIALIZER_H_INCLUDED
-#define VAC_PROTOCOL_SERIALIZER_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_SERIALIZER_H_INCLUDED
+#define VALUEADD_PROTOCOL_SERIALIZER_H_INCLUDED
 
 #include <valueAdd/protocol/SField.h>
 #include <valueAdd/basics/base_uint.h>

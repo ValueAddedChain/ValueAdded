@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PROTOCOL_STACCOUNT_H_INCLUDED
-#define VAC_PROTOCOL_STACCOUNT_H_INCLUDED
+#ifndef VALUEADD_PROTOCOL_STACCOUNT_H_INCLUDED
+#define VALUEADD_PROTOCOL_STACCOUNT_H_INCLUDED
 
 #include <valueAdd/protocol/AccountID.h>
 #include <valueAdd/protocol/STBase.h>

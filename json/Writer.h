@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_JSON_WRITER_H_INCLUDED
-#define VAC_JSON_WRITER_H_INCLUDED
+#ifndef VALUEADD_JSON_WRITER_H_INCLUDED
+#define VALUEADD_JSON_WRITER_H_INCLUDED
 
 #include <valueAdd/basics/contract.h>
 #include <valueAdd/basics/ToString.h>
