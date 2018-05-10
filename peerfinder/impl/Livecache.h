@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_LIVECACHE_H_INCLUDED
-#define VAC_PEERFINDER_LIVECACHE_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_LIVECACHE_H_INCLUDED
+#define VALUEADD_PEERFINDER_LIVECACHE_H_INCLUDED
 
 #include <valueAdd/basics/Log.h>
 #include <valueAdd/peerfinder/PeerfinderManager.h>

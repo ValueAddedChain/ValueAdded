@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NODESTORE_DATABASEROTATINGIMP_H_INCLUDED
-#define VAC_NODESTORE_DATABASEROTATINGIMP_H_INCLUDED
+#ifndef VALUEADD_NODESTORE_DATABASEROTATINGIMP_H_INCLUDED
+#define VALUEADD_NODESTORE_DATABASEROTATINGIMP_H_INCLUDED
 
 #include <valueAdd/nodestore/impl/DatabaseImp.h>
 #include <valueAdd/nodestore/DatabaseRotating.h>

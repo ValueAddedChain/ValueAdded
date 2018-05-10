@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_BASEWSPEER_H_INCLUDED
-#define VAC_SERVER_BASEWSPEER_H_INCLUDED
+#ifndef VALUEADD_SERVER_BASEWSPEER_H_INCLUDED
+#define VALUEADD_SERVER_BASEWSPEER_H_INCLUDED
 
 #include <valueAdd/server/impl/BasePeer.h>
 #include <valueAdd/protocol/BuildInfo.h>

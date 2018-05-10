@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NODESTORE_DATABASEIMP_H_INCLUDED
-#define VAC_NODESTORE_DATABASEIMP_H_INCLUDED
+#ifndef VALUEADD_NODESTORE_DATABASEIMP_H_INCLUDED
+#define VALUEADD_NODESTORE_DATABASEIMP_H_INCLUDED
 
 #include <valueAdd/nodestore/Database.h>
 #include <valueAdd/nodestore/Scheduler.h>
@@ -276,7 +276,7 @@ public:
                         uint256 const& hash,
                         Backend& backend)
     {
-        #if VAC_VERIFY_NODEOBJECT_KEYS
+        #if VALUEADD_VERIFY_NODEOBJECT_KEYS
         assert (hash == sha512Hash(makeSlice(data)));
         #endif
 

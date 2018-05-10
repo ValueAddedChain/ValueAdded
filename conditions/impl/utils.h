@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CONDITIONS_UTILS_H
-#define VAC_CONDITIONS_UTILS_H
+#ifndef VALUEADD_CONDITIONS_UTILS_H
+#define VALUEADD_CONDITIONS_UTILS_H
 
 #include <valueAdd/basics/strHex.h>
 #include <valueAdd/conditions/impl/error.h>

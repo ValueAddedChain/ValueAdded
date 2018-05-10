@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_HANDOUTS_H_INCLUDED
-#define VAC_PEERFINDER_HANDOUTS_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_HANDOUTS_H_INCLUDED
+#define VALUEADD_PEERFINDER_HANDOUTS_H_INCLUDED
 
 #include <valueAdd/peerfinder/impl/SlotImp.h>
 #include <valueAdd/peerfinder/impl/Tuning.h>

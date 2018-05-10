@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_PRIVATETYPES_H_INCLUDED
-#define VAC_PEERFINDER_PRIVATETYPES_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_PRIVATETYPES_H_INCLUDED
+#define VALUEADD_PEERFINDER_PRIVATETYPES_H_INCLUDED
 
 namespace valueAdd {
 namespace PeerFinder {

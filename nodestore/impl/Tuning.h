@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NODESTORE_TUNING_H_INCLUDED
-#define VAC_NODESTORE_TUNING_H_INCLUDED
+#ifndef VALUEADD_NODESTORE_TUNING_H_INCLUDED
+#define VALUEADD_NODESTORE_TUNING_H_INCLUDED
 
 namespace valueAdd {
 namespace NodeStore {

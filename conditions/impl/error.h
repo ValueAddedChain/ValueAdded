@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CONDITIONS_ERROR_H
-#define VAC_CONDITIONS_ERROR_H
+#ifndef VALUEADD_CONDITIONS_ERROR_H
+#define VALUEADD_CONDITIONS_ERROR_H
 
 #include <system_error>
 #include <string>

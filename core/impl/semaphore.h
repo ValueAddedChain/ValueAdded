@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_CORE_SEMAPHORE_H_INCLUDED
-#define VAC_CORE_SEMAPHORE_H_INCLUDED
+#ifndef VALUEADD_CORE_SEMAPHORE_H_INCLUDED
+#define VALUEADD_CORE_SEMAPHORE_H_INCLUDED
 
 #include <condition_variable>
 #include <mutex>

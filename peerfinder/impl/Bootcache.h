@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_BOOTCACHE_H_INCLUDED
-#define VAC_PEERFINDER_BOOTCACHE_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_BOOTCACHE_H_INCLUDED
+#define VALUEADD_PEERFINDER_BOOTCACHE_H_INCLUDED
 
 #include <valueAdd/peerfinder/PeerfinderManager.h>
 #include <valueAdd/peerfinder/impl/Store.h>

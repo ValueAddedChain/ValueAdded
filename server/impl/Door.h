@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_DOOR_H_INCLUDED
-#define VAC_SERVER_DOOR_H_INCLUDED
+#ifndef VALUEADD_SERVER_DOOR_H_INCLUDED
+#define VALUEADD_SERVER_DOOR_H_INCLUDED
 
 #include <valueAdd/server/impl/io_list.h>
 #include <valueAdd/basics/contract.h>

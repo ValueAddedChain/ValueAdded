@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_OVERLAY_OVERLAYIMPL_H_INCLUDED
-#define VAC_OVERLAY_OVERLAYIMPL_H_INCLUDED
+#ifndef VALUEADD_OVERLAY_OVERLAYIMPL_H_INCLUDED
+#define VALUEADD_OVERLAY_OVERLAYIMPL_H_INCLUDED
 
 #include <valueAdd/app/main/Application.h>
 #include <valueAdd/core/Job.h>

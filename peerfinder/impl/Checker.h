@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_CHECKER_H_INCLUDED
-#define VAC_PEERFINDER_CHECKER_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_CHECKER_H_INCLUDED
+#define VALUEADD_PEERFINDER_CHECKER_H_INCLUDED
 
 #include <valueAdd/beast/net/IPAddressConversion.h>
 #include <boost/asio/detail/handler_invoke_helpers.hpp>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_NODESTORE_BATCHWRITER_H_INCLUDED
-#define VAC_NODESTORE_BATCHWRITER_H_INCLUDED
+#ifndef VALUEADD_NODESTORE_BATCHWRITER_H_INCLUDED
+#define VALUEADD_NODESTORE_BATCHWRITER_H_INCLUDED
 
 #include <valueAdd/nodestore/Scheduler.h>
 #include <valueAdd/nodestore/Task.h>

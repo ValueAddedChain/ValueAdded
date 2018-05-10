@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_PLAINHTTPPEER_H_INCLUDED
-#define VAC_SERVER_PLAINHTTPPEER_H_INCLUDED
+#ifndef VALUEADD_SERVER_PLAINHTTPPEER_H_INCLUDED
+#define VALUEADD_SERVER_PLAINHTTPPEER_H_INCLUDED
 
 #include <valueAdd/beast/rfc2616.h>
 #include <valueAdd/server/impl/BaseHTTPPeer.h>

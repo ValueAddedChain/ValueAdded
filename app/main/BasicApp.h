@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_APP_BASICAPP_H_INCLUDED
-#define VAC_APP_BASICAPP_H_INCLUDED
+#ifndef VALUEADD_APP_BASICAPP_H_INCLUDED
+#define VALUEADD_APP_BASICAPP_H_INCLUDED
 
 #include <boost/asio/io_service.hpp>
 #include <boost/optional.hpp>

@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_SERVERIMPL_H_INCLUDED
-#define VAC_SERVER_SERVERIMPL_H_INCLUDED
+#ifndef VALUEADD_SERVER_SERVERIMPL_H_INCLUDED
+#define VALUEADD_SERVER_SERVERIMPL_H_INCLUDED
 
 #include <valueAdd/basics/chrono.h>
 #include <valueAdd/server/Server.h>

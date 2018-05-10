@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_SERVER_BASEHTTPPEER_H_INCLUDED
-#define VAC_SERVER_BASEHTTPPEER_H_INCLUDED
+#ifndef VALUEADD_SERVER_BASEHTTPPEER_H_INCLUDED
+#define VALUEADD_SERVER_BASEHTTPPEER_H_INCLUDED
 
 #include <valueAdd/basics/Log.h>
 #include <valueAdd/server/Session.h>

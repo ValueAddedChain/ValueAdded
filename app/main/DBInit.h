@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_APP_DATA_DBINIT_H_INCLUDED
-#define VAC_APP_DATA_DBINIT_H_INCLUDED
+#ifndef VALUEADD_APP_DATA_DBINIT_H_INCLUDED
+#define VALUEADD_APP_DATA_DBINIT_H_INCLUDED
 
 namespace valueAdd {
 

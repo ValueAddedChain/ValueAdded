@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_JSON_JSON_ASSERT_H_INCLUDED
-#define VAC_JSON_JSON_ASSERT_H_INCLUDED
+#ifndef VALUEADD_JSON_JSON_ASSERT_H_INCLUDED
+#define VALUEADD_JSON_JSON_ASSERT_H_INCLUDED
 
 #define JSON_ASSERT_UNREACHABLE assert( false )
 #define JSON_ASSERT( condition ) assert( condition );  // @todo <= change this into an exception throw

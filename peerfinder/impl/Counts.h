@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_PEERFINDER_COUNTS_H_INCLUDED
-#define VAC_PEERFINDER_COUNTS_H_INCLUDED
+#ifndef VALUEADD_PEERFINDER_COUNTS_H_INCLUDED
+#define VALUEADD_PEERFINDER_COUNTS_H_INCLUDED
 
 #include <valueAdd/basics/random.h>
 #include <valueAdd/peerfinder/PeerfinderManager.h>

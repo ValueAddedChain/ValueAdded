@@ -17,8 +17,8 @@
 */
 //==============================================================================
 
-#ifndef VAC_APP_MAIN_APPLICATION_H_INCLUDED
-#define VAC_APP_MAIN_APPLICATION_H_INCLUDED
+#ifndef VALUEADD_APP_MAIN_APPLICATION_H_INCLUDED
+#define VALUEADD_APP_MAIN_APPLICATION_H_INCLUDED
 
 #include <valueAdd/shamap/FullBelowCache.h>
 #include <valueAdd/shamap/TreeNodeCache.h>
